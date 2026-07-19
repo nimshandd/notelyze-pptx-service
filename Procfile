@@ -1,0 +1,1 @@
+web: gunicorn pptx_service:app
